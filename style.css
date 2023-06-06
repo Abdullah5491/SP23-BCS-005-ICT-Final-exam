@@ -20,7 +20,8 @@
   margin-top: 5%;
   width: 90%;
   background: #ffffff;
-  height: 18.8%;
+  height: 18.7%;
+  padding-bottom: 0px;
 }
 .menu {
   display: flex;
@@ -30,7 +31,9 @@
   margin-right:34px;
 }
 .logo img{
-    width: 80%;
+    width: 84%;
+    margin-bottom: -4px;
+
 
 }
 .navbar ul {
